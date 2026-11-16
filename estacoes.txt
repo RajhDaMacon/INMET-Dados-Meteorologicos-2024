@@ -1,0 +1,8 @@
+INMET_CO_DF_A001_BRASILIA
+INMET_CO_DF_A042_BRAZLANDIA
+INMET_CO_DF_A045_AGUAS EMENDADAS
+INMET_CO_DF_A046_GAMA (PONTE ALTA)
+INMET_CO_DF_A047_PARANOA (COOPA-DF)
+... (lista completa com 565 estações)
+
+Para a lista completa, veja o arquivo no repositório ou baixe o ZIP.
